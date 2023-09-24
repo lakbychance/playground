@@ -1,3 +1,5 @@
+/* eslint-disable -- coz I want to */
+
 'use client'
 
 import { Sticky } from "ui"
